@@ -6,12 +6,12 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>NextJS Typescript boilerplate</title>
+        <title>NextJS TypeScript boilerplate</title>
         <link rel="shortcut icon" href="/img/favicon.ico" />
         <link rel="apple-touch-icon" href="/img/favicon.ico" />
         <meta
           name="description"
-          content="NextJS Typescript and Styled Components  boilerplate"
+          content="NextJS TypeScript and Styled Components  boilerplate"
         />
       </Head>
       <GlobalStyles />
