@@ -9,6 +9,7 @@ function App({ Component, pageProps }: AppProps) {
         <title>NextJS TypeScript boilerplate</title>
         <link rel="shortcut icon" href="/img/favicon.ico" />
         <link rel="apple-touch-icon" href="/img/favicon.ico" />
+        <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
           content="NextJS TypeScript and Styled Components  boilerplate"

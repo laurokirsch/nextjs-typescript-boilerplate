@@ -1,0 +1,15 @@
+{
+  "name": "NextJS - Boilerplate",
+  "short_name": "NextJS boilerplate",
+  "icons": [
+    {
+      "src": "/img/logo.svg",
+      "sizes": "any"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Boilerplate with NextJS, Typescript and Styled Components",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
